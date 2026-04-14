@@ -46,7 +46,8 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 #### 📚 Courses
 
-*(Coming soon...)*
+- **React - The Complete Guide (incl. Next.js, Redux)** - [View Repository](https://github.com/usamaElsharkawi/the-react-course)
+  *Deep dive into modern React, covering hooks, state management, Redux, Next.js, and more.*
 
 <br/>
 
