@@ -64,6 +64,9 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **Understanding TypeScript** (To be studied and documented) - [View Repository](https://github.com/usamaElsharkawi/Typescript-course)
   *Mastering type safety, decorators, and advanced TypeScript patterns for building scalable applications.*
 
+- **Mastering System Design: From Basics to Cracking Interviews** (To be studied and documented) - [View Repository](https://github.com/usamaElsharkawi/system-design-course)
+  *Learning scalable architecture, load balancing, database sharding, and high-level system design.*
+
 <br/>
 
 ### 📊 GitHub Stats
