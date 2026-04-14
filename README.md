@@ -47,10 +47,6 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaElsharkawi&theme=github-compact" width="100%" alt="Contribution Graph" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usamaElsharkawi&show_icons=true&theme=vue-dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaElsharkawi&theme=vue-dark&hide_border=true" width="48%" />
 </div>
