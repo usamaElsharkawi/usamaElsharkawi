@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=180&lines=Hello+there!+%F0%9F%91%8B;I'm+Usama+El-Sharkawi;Frontend+Developer;AI-Assisted+Dev+Enthusiast" width="80%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=180&lines=Hello+there!+%F0%9F%91%8B;I'm+Usama+El-Sharkawi;Frontend+Developer;AI-Assisted+Dev+Enthusiast" width="80%" />
 </div>
 
 <br/>
@@ -18,16 +18,19 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 ### 🛠️ My Skills
 
 <div align="left">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=764ABC" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06B6D4" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vultr&svgfill=646CFF" width="40" /> <!-- Vite approx -->
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624" width="40" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28" width="40" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=764ABC" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactquery&svgfill=FF4154" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter&svgfill=CA4245" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06B6D4" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite&svgfill=646CFF" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624" width="60" />
+  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28" width="60" />
 </div>
 
 <br/>
@@ -43,8 +46,12 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamaElsharkawi&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaElsharkawi&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamaElsharkawi&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaElsharkawi&theme=dark&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaElsharkawi&layout=compact&theme=dark&hide_border=true" width="60%" />
 </div>
 
 <br/>
