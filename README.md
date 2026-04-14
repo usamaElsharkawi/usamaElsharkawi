@@ -40,9 +40,13 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 ### 🏆 Achievements
 
-- 🎓 **DEPI Graduate (2025):** Completed the Frontend Development track with a focus on modern web standards.
-- 🚀 **Project Architect:** Successfully delivered 6+ advanced React projects including a complex Event Management Dashboard and Food Ordering Platform.
-- 🤖 **AI Integration:** Specialized in AI-assisted development (Gemini CLI, Google Anti-Gravity) to optimize coding workflows.
+#### 📜 Certificates
+
+- **Digital Egypt Pioneers Initiative (DEPI)** - [View Certificate](https://drive.google.com/file/d/1ZS5t48O3OpqZIdiO8XS7xPXIlnCIBcbB/view)
+
+#### 📚 Courses
+
+*(Coming soon...)*
 
 <br/>
 
