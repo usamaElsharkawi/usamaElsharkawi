@@ -58,6 +58,9 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **Become a Product Manager | Learn the Skills & Get the Job** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/product-managment-course)
   *Mastering the product lifecycle, market analysis, and core skills needed for successful Product Management.*
 
+- **Complete React and NextJS course with AI powered Projects** (To be studied and documented) - [View Repository](https://github.com/usamaElsharkawi/Complete-React-and-NextJS-course-with-AI-powered-Projects)
+  *Exploring advanced Next.js features and integrating AI capabilities into modern web applications.*
+
 <br/>
 
 ### 📊 GitHub Stats
