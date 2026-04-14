@@ -17,21 +17,11 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 ### 🛠️ My Skills
 
-<div align="left">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=764ABC" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactquery&svgfill=FF4154" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=reactrouter&svgfill=CA4245" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=06B6D4" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite&svgfill=646CFF" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux&svgfill=FCC624" width="60" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28" width="60" />
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,reactquery,tailwind,vite,figma,git,linux,firebase&perline=13" />
+  </a>
+</p>
 
 <br/>
 
