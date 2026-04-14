@@ -72,15 +72,15 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamaElsharkawi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=120" alt="Usama's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usamaElsharkawi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=120" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaElsharkawi&theme=tokyonight&hide_border=true&cache_seconds=120" alt="Usama's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamaElsharkawi&theme=tokyonight&hide_border=true&cache_seconds=120" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaElsharkawi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=120" alt="Usama's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaElsharkawi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=120" />
 </p>
 
 <br/>
