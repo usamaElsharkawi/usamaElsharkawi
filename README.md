@@ -55,6 +55,9 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **Tailwind CSS From Scratch | Learn By Building Projects** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/tailwind-css-course/blob/main/README.md)
   *Mastering utility-first CSS to build responsive, modern websites through hands-on projects.*
 
+- **Become a Product Manager | Learn the Skills & Get the Job** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/product-managment-course)
+  *Mastering the product lifecycle, market analysis, and core skills needed for successful Product Management.*
+
 <br/>
 
 ### 📊 GitHub Stats
