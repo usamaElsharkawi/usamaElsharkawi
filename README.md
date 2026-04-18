@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=45&duration=2000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=180&lines=Hello+there!+%F0%9F%91%8B;I'm+Usama+El-Sharkawi;Frontend+Developer;AI-Assisted+Dev+Enthusiast" width="80%" />
 </div>
 
+<div align="center">
+  <a href="https://drive.google.com/file/d/1b58fuolBpW0x47gMc40cXVqBpGU-U3tU/view" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_CV-A7A459?style=for-the-badge&logo=google-drive&logoColor=white" alt="View CV" />
+  </a>
+</div>
+
 <br/>
 
 ### 👨‍💻 About Me
@@ -93,6 +99,9 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=usamasharkawi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://drive.google.com/file/d/1b58fuolBpW0x47gMc40cXVqBpGU-U3tU/view" target="_blank">
+    <img src="https://img.shields.io/badge/View_CV-A7A459?style=for-the-badge&logo=google-drive&logoColor=white" alt="View CV" />
   </a>
 </p>
 
