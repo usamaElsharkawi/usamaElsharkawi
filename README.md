@@ -18,7 +18,7 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 - 🔭 **Current Focus:** Building robust SPAs with React Router 7 and TanStack Query.
 - 🌱 **Learning:** Deep diving into advanced state management and AI-native coding.
-- 💬 **Ask Me About:** React, Redux, Tailwind, or the Gemini CLI.
+- 💬 **Ask Me About:** React, Next.js, Redux, Tailwind, or the Gemini CLI.
 - ⚡ **Fun Fact:** I use AI-assisted development tools to build features faster and with higher precision.
 
 <br/>
@@ -30,6 +30,7 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
