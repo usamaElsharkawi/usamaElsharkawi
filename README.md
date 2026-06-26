@@ -68,10 +68,10 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **Complete React and NextJS course with AI powered Projects** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Complete-React-and-NextJS-course-with-AI-powered-Projects)
   *Exploring advanced Next.js features and integrating AI capabilities into modern web applications.*
 
-- **Understanding TypeScript** (To be studied and documented) - [View Repository](https://github.com/usamaElsharkawi/Typescript-course)
+- **Understanding TypeScript** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Typescript-course)
   *Mastering type safety, decorators, and advanced TypeScript patterns for building scalable applications.*
 
-- **Mastering System Design: From Basics to Cracking Interviews** (To be studied and documented) - [View Repository](https://github.com/usamaElsharkawi/system-design-course)
+- **Mastering System Design: From Basics to Cracking Interviews** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/system-design-course)
   *Learning scalable architecture, load balancing, database sharding, and high-level system design.*
 
 <br/>
