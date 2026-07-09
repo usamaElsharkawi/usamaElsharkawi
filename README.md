@@ -76,6 +76,15 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 <br/>
 
+### 🚀 Projects
+
+#### 🌐 LeetCode Clone
+
+- **LeetCode Clone** - [View Repository](https://github.com/usamaElsharkawi/leetcode-clone)
+  *A production-grade coding platform built from first principles. Focuses on timeless software fundamentals rather than framework-specific knowledge. Features an admin problem creation workflow, Judge0-based code execution sandbox, and a robust Next.js + TypeScript + Prisma architecture.*
+
+<br/>
+
 ### 📊 GitHub Stats
 
 <p align="center">
