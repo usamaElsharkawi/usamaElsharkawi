@@ -23,7 +23,7 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 <br/>
 
-### 🛠️ My Skills
+### 🛠️ The stack I build with
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
