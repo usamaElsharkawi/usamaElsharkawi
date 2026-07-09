@@ -18,7 +18,6 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 - 🔭 **Current Focus:** Shipping full-stack Next.js apps with AI-augmented software engineering.
 - 🌱 **Learning:** Mastering software engineering by understanding first principles, not just tools.
-- 💬 **Ask Me About:** React, Next.js, Redux, Tailwind, or the Gemini CLI.
 - ⚡ **Fun Fact:** I use AI-assisted development tools to build features faster and with higher precision.
 
 <br/>
