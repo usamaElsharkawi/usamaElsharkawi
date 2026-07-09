@@ -41,6 +41,11 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-F59E0B?style=for-the-badge&logo=zustand&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-7C3AED?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC4899?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </p>
 
 <br/>
