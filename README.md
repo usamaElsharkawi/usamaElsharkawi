@@ -16,8 +16,8 @@
 
 I am a **Frontend Developer** and **DEPI graduate** specializing in building scalable React applications. I'm passionate about clean code, performance, and leveraging AI to optimize development workflows. I thrive in Linux environments and love exploring the intersection of modern web tech and AI productivity.
 
-- 🔭 **Current Focus:** Building robust SPAs with React Router 7 and TanStack Query.
-- 🌱 **Learning:** Deep diving into advanced state management and AI-native coding.
+- 🔭 **Current Focus:** Shipping full-stack Next.js apps with AI-augmented software engineering.
+- 🌱 **Learning:** Mastering software engineering by understanding first principles, not just tools.
 - 💬 **Ask Me About:** React, Next.js, Redux, Tailwind, or the Gemini CLI.
 - ⚡ **Fun Fact:** I use AI-assisted development tools to build features faster and with higher precision.
 
