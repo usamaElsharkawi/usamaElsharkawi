@@ -30,10 +30,12 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -44,6 +46,7 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3B82F6?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Clerk-7C3AED?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC4899?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </p>
 
@@ -69,7 +72,7 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **Become a Product Manager | Learn the Skills & Get the Job** - [View Repository](https://github.com/usamaElsharkawi/product-managment-course) - [View Certificate](https://drive.google.com/file/d/1MuVnQ7urJ1JLVeu_5cTPnEohXzlpzaFc/view?usp=sharing)
   *Mastering the product lifecycle, market analysis, and core skills needed for successful Product Management.*
 
-- **Complete React and NextJS course with AI powered Projects** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Complete-React-and-NextJS-course-with-AI-powered-Projects)
+- **Complete React and NextJS course with AI powered Projects** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Complete-React-and-NextJS-course-with-AI-powered-Projects) - [View Certificate](https://drive.google.com/file/d/1PlkAvp_ZV67vNB3H-JSC4f7mS9Mr2nSI/view)
   *Exploring advanced Next.js features and integrating AI capabilities into modern web applications.*
 
 - **Understanding TypeScript** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Typescript-course)
@@ -86,6 +89,9 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 - **LeetCode Clone** - [View Repository](https://github.com/usamaElsharkawi/leetcode-clone)
   *A production-grade coding platform built from first principles. Focuses on timeless software fundamentals rather than framework-specific knowledge. Features an admin problem creation workflow, Judge0-based code execution sandbox, and a robust Next.js + TypeScript + Prisma architecture.*
+
+- **T3 Chat Clone** - [View Repository](https://github.com/usamaElsharkawi/t3-chat-clone)
+  *A modern AI chat application built with Next.js, Prisma, and PostgreSQL. Features streaming AI responses, persistent chat history, Better Auth authentication, TanStack Query data management, and a polished shadcn/ui interface with light/dark mode.*
 
 <br/>
 
