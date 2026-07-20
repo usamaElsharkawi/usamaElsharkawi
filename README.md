@@ -81,6 +81,9 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **Mastering System Design: From Basics to Cracking Interviews** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/system-design-course)
   *Learning scalable architecture, load balancing, database sharding, and high-level system design.*
 
+- **Fundamentals of Network Engineering** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Fundamentals-of-Network-Engineering)
+  *Building a strong foundation in computer networking, covering the OSI/TCP-IP models, routing, switching, and core network protocols.*
+
 <br/>
 
 ### 🚀 Projects
