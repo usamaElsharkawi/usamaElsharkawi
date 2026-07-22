@@ -88,15 +88,11 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 ### 🚀 Projects
 
-#### 🌐 LeetCode Clone
-
 - **LeetCode Clone** - [View Repository](https://github.com/usamaElsharkawi/leetcode-clone)
   *A production-grade coding platform built from first principles. Focuses on timeless software fundamentals rather than framework-specific knowledge. Features an admin problem creation workflow, Judge0-based code execution sandbox, and a robust Next.js + TypeScript + Prisma architecture.*
 
 - **T3 Chat Clone** - [View Repository](https://github.com/usamaElsharkawi/t3-chat-clone)
   *A modern AI chat application built with Next.js, Prisma, and PostgreSQL. Features streaming AI responses, persistent chat history, Better Auth authentication, TanStack Query data management, and a polished shadcn/ui interface with light/dark mode.*
-
-#### 🤖 Vibe
 
 - **Vibe** - [View Repository](https://github.com/usamaElsharkawi/vibe)
   *🚀 AI-powered full-stack app builder that generates production-ready Next.js applications from natural language prompts.*
