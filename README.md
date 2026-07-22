@@ -96,6 +96,11 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **T3 Chat Clone** - [View Repository](https://github.com/usamaElsharkawi/t3-chat-clone)
   *A modern AI chat application built with Next.js, Prisma, and PostgreSQL. Features streaming AI responses, persistent chat history, Better Auth authentication, TanStack Query data management, and a polished shadcn/ui interface with light/dark mode.*
 
+#### 🤖 Vibe
+
+- **Vibe** - [View Repository](https://github.com/usamaElsharkawi/vibe)
+  *🚀 AI-powered full-stack app builder that generates production-ready Next.js applications from natural language prompts.*
+
 <br/>
 
 ### 📊 GitHub Stats
