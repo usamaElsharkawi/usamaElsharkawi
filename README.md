@@ -86,7 +86,7 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 
 - **Fundamentals of Network Engineering** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Fundamentals-of-Network-Engineering)
   *Building a strong foundation in computer networking, covering the OSI/TCP-IP models, routing, switching, and core network protocols.*
-- **Programming Foundations: Design Patterns** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Programming-Foundations-Design-Patterns)
+- **Programming Foundations: Design Patterns** - [View Repository](https://github.com/usamaElsharkawi/Programming-Foundations-Design-Patterns) - [View Certificate](https://drive.google.com/file/d/1GuKj-cmRozyxO5y4Pyk8NQYGQr0OFg7A/view)
   *Mastering essential design patterns including creational, structural, and behavioral patterns to write flexible, reusable, and maintainable code.*
 
 
