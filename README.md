@@ -89,6 +89,11 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **Programming Foundations: Design Patterns** - [View Repository](https://github.com/usamaElsharkawi/Programming-Foundations-Design-Patterns) - [View Certificate](https://drive.google.com/file/d/1GuKj-cmRozyxO5y4Pyk8NQYGQr0OFg7A/view)
   *Mastering essential design patterns including creational, structural, and behavioral patterns to write flexible, reusable, and maintainable code.*
 
+- **Agile Foundation Course Certificate** - [View Certificate](https://drive.google.com/file/d/1c7__mEPMpV2Qu_5N-S-rUNfZyBh25Ijf/view)
+  *Foundational understanding of Agile principles, Scrum framework, and iterative development methodologies.*
+
+
+
 
 <br/>
 
