@@ -67,6 +67,9 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **The Complete JavaScript Course 2025: From Zero to Expert!** - [View Repository](https://github.com/usamaElsharkawi/the-javascript-course)
   *Mastering modern JavaScript from fundamentals to advanced patterns, including ES6+, DOM manipulation, and asynchronous JS.*
 
+- **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** - [View Repository](https://github.com/usamaElsharkawi/NodeJS-The-Complete-Guide)
+  *Mastering server-side development with Node.js, covering MVC architecture, RESTful APIs, GraphQL, and Deno.*
+
 - **Tailwind CSS From Scratch | Learn By Building Projects**  - [View Repository](https://github.com/usamaElsharkawi/tailwind-css-course/blob/main/README.md)
   *Mastering utility-first CSS to build responsive, modern websites through hands-on projects.*
 
