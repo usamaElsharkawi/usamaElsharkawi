@@ -78,7 +78,7 @@ I am a **Frontend Developer** and **DEPI graduate** specializing in building sca
 - **UML and Object-Oriented Design Foundations** - [View Repository](https://github.com/usamaElsharkawi/UML-and-Object-Oriented-Design-Foundations/tree/main/04.%20Object-Oriented%20Analysis%20and%20Design) - [View Certificate](https://www.udemy.com/certificate/UC-ab68c766-0c42-46d6-851c-9c35f193da30/)
   *Mastering object-oriented analysis and design (OOAD) — the 4-phase process from requirements gathering to UML modeling — and the core OO principles of abstraction, encapsulation, inheritance, and polymorphism for designing well-structured systems.*
 
-- **Understanding TypeScript** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Typescript-course)
+- **Understanding TypeScript** - [View Repository](https://github.com/usamaElsharkawi/Typescript-course) - [View Certificate](https://www.udemy.com/certificate/UC-072ead5d-1f67-4488-8f80-38042e18d318/)
   *Mastering type safety, decorators, and advanced TypeScript patterns for building scalable applications.*
 
 - **Mastering System Design: From Basics to Cracking Interviews** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/system-design-course)
