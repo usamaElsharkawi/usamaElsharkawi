@@ -53,15 +53,16 @@ I am a **Full-Stack Developer** and **DEPI graduate** specializing in building s
 
 <br/>
 
-### 🏆 Achievements
+## <strong>🏆 Achievements</strong>
 
-#### 🧭 Courses and Certificates
+### <strong>📜 Certificates</strong>
+
+- **Digital Egypt Pioneers Initiative (DEPI)** - [View Certificate](https://drive.google.com/file/d/1ZS5t48O3OpqZIdiO8XS7xPXIlnCIBcbB/view)
+
+### <strong>📚 Courses</strong>
 
 <details>
 <summary>🛠️ Software Engineering</summary>
-
-- **Digital Egypt Pioneers Initiative (DEPI)** - [View Certificate](https://drive.google.com/file/d/1ZS5t48O3OpqZIdiO8XS7xPXIlnCIBcbB/view)
-  *Broad technical foundation for building modern software systems.*
 
 - **React - The Complete Guide (incl. Next.js, Redux)** - [View Repository](https://github.com/usamaElsharkawi/the-react-course)
   *Deep dive into modern React, covering hooks, state management, Redux, Next.js, and more.*
@@ -138,9 +139,7 @@ Future learning will cover user research, user journeys, information architectur
 
 </details>
 
-<br/>
-
-### 🚀 Projects
+### <strong>🚀 Projects</strong>
 
 - **LeetCode Clone** - [View Repository](https://github.com/usamaElsharkawi/leetcode-clone)
   *A production-grade coding platform built from first principles. Focuses on timeless software fundamentals rather than framework-specific knowledge. Features an admin problem creation workflow, Judge0-based code execution sandbox, and a robust Next.js + TypeScript + Prisma architecture.*
