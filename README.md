@@ -55,14 +55,19 @@ I am a **Full-Stack Developer** and **DEPI graduate** specializing in building s
 
 ### 🏆 Achievements
 
-#### 📜 Certificates
+#### 🧭 Courses and Certificates
+
+<details>
+<summary>🛠️ Software Engineering</summary>
 
 - **Digital Egypt Pioneers Initiative (DEPI)** - [View Certificate](https://drive.google.com/file/d/1ZS5t48O3OpqZIdiO8XS7xPXIlnCIBcbB/view)
-
-#### 📚 Courses
+  *Broad technical foundation for building modern software systems.*
 
 - **React - The Complete Guide (incl. Next.js, Redux)** - [View Repository](https://github.com/usamaElsharkawi/the-react-course)
   *Deep dive into modern React, covering hooks, state management, Redux, Next.js, and more.*
+
+- **Complete React and NextJS course with AI powered Projects** - [View Repository](https://github.com/usamaElsharkawi/Complete-React-and-NextJS-course-with-AI-powered-Projects) - [View Certificate](https://drive.google.com/file/d/1PlkAvp_ZV67vNB3H-JSC4f7mS9Mr2nSI/view)
+  *Exploring advanced Next.js features and integrating AI capabilities into modern web applications.*
 
 - **The Complete JavaScript Course 2025: From Zero to Expert!** - [View Repository](https://github.com/usamaElsharkawi/the-javascript-course)
   *Mastering modern JavaScript from fundamentals to advanced patterns, including ES6+, DOM manipulation, and asynchronous JS.*
@@ -70,34 +75,68 @@ I am a **Full-Stack Developer** and **DEPI graduate** specializing in building s
 - **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/NodeJS-The-Complete-Guide)
   *Mastering server-side development with Node.js, covering MVC architecture, RESTful APIs, GraphQL, and Deno.*
 
-- **Tailwind CSS From Scratch | Learn By Building Projects**  - [View Repository](https://github.com/usamaElsharkawi/tailwind-css-course/blob/main/README.md)
+- **Tailwind CSS From Scratch | Learn By Building Projects** - [View Repository](https://github.com/usamaElsharkawi/tailwind-css-course/blob/main/README.md)
   *Mastering utility-first CSS to build responsive, modern websites through hands-on projects.*
 
-- **Become a Product Manager | Learn the Skills & Get the Job** - [View Repository](https://github.com/usamaElsharkawi/product-managment-course) - [View Certificate](https://drive.google.com/file/d/1MuVnQ7urJ1JLVeu_5cTPnEohXzlpzaFc/view?usp=sharing)
-  *Mastering the product lifecycle, market analysis, and core skills needed for successful Product Management.*
-
-- **Complete React and NextJS course with AI powered Projects** - [View Repository](https://github.com/usamaElsharkawi/Complete-React-and-NextJS-course-with-AI-powered-Projects) - [View Certificate](https://drive.google.com/file/d/1PlkAvp_ZV67vNB3H-JSC4f7mS9Mr2nSI/view)
-  *Exploring advanced Next.js features and integrating AI capabilities into modern web applications.*
+- **Understanding TypeScript** - [View Repository](https://github.com/usamaElsharkawi/Typescript-course) - [View Certificate](https://www.udemy.com/certificate/UC-072ead5d-1f67-4488-8f80-38042e18d318/)
+  *Mastering type safety, decorators, and advanced TypeScript patterns for building scalable applications.*
 
 - **UML and Object-Oriented Design Foundations** - [View Repository](https://github.com/usamaElsharkawi/UML-and-Object-Oriented-Design-Foundations/tree/main/04.%20Object-Oriented%20Analysis%20and%20Design) - [View Certificate](https://www.udemy.com/certificate/UC-ab68c766-0c42-46d6-851c-9c35f193da30/)
   *Mastering object-oriented analysis and design (OOAD) — the 4-phase process from requirements gathering to UML modeling — and the core OO principles of abstraction, encapsulation, inheritance, and polymorphism for designing well-structured systems.*
 
-- **Understanding TypeScript** - [View Repository](https://github.com/usamaElsharkawi/Typescript-course) - [View Certificate](https://www.udemy.com/certificate/UC-072ead5d-1f67-4488-8f80-38042e18d318/)
-  *Mastering type safety, decorators, and advanced TypeScript patterns for building scalable applications.*
+- **Programming Foundations: Design Patterns** - [View Repository](https://github.com/usamaElsharkawi/Programming-Foundations-Design-Patterns) - [View Certificate](https://drive.google.com/file/d/1GuKj-cmRozyxO5y4Pyk8NQYGQr0OFg7A/view)
+  *Mastering essential design patterns including creational, structural, and behavioral patterns to write flexible, reusable, and maintainable code.*
+
+</details>
+
+<details>
+<summary>🧠 Systems Thinking</summary>
 
 - **Mastering System Design: From Basics to Cracking Interviews** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/system-design-course)
   *Learning scalable architecture, load balancing, database sharding, and high-level system design.*
 
 - **Fundamentals of Network Engineering** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Fundamentals-of-Network-Engineering)
   *Building a strong foundation in computer networking, covering the OSI/TCP-IP models, routing, switching, and core network protocols.*
-- **Programming Foundations: Design Patterns** - [View Repository](https://github.com/usamaElsharkawi/Programming-Foundations-Design-Patterns) - [View Certificate](https://drive.google.com/file/d/1GuKj-cmRozyxO5y4Pyk8NQYGQr0OFg7A/view)
-  *Mastering essential design patterns including creational, structural, and behavioral patterns to write flexible, reusable, and maintainable code.*
+
+</details>
+
+<details>
+<summary>🎯 Product Thinking</summary>
+
+- **Become a Product Manager | Learn the Skills & Get the Job** - [View Repository](https://github.com/usamaElsharkawi/product-managment-course) - [View Certificate](https://drive.google.com/file/d/1MuVnQ7urJ1JLVeu_5cTPnEohXzlpzaFc/view?usp=sharing)
+  *Mastering the product lifecycle, market analysis, and core skills needed for successful Product Management.*
 
 - **Agile Foundation Course Certificate** - [View Certificate](https://drive.google.com/file/d/1c7__mEPMpV2Qu_5N-S-rUNfZyBh25Ijf/view)
   *Foundational understanding of Agile principles, Scrum framework, and iterative development methodologies.*
 
+</details>
 
+<details>
+<summary>🤖 AI Engineering</summary>
 
+**Courses coming soon.**
+
+Future learning will cover LLM fundamentals, embeddings, semantic search, RAG, classification, extraction, summarization, agents, evaluation, reliability, guardrails, security, prompt-injection defense, model routing, cost, latency, and observability.
+
+</details>
+
+<details>
+<summary>💼 Business Thinking</summary>
+
+**Courses coming soon.**
+
+Future learning will cover markets, competition, business models, pricing, revenue, costs, margins, unit economics, distribution, customer acquisition, retention, product-market fit, and growth.
+
+</details>
+
+<details>
+<summary>🎨 User / UX Thinking</summary>
+
+**Courses coming soon.**
+
+Future learning will cover user research, user journeys, information architecture, interaction design, usability, accessibility, onboarding, forms, feedback, loading states, error states, empty states, and cognitive load.
+
+</details>
 
 <br/>
 
