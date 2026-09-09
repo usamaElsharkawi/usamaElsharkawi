@@ -14,11 +14,11 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Developer** and **DEPI graduate** specializing in building scalable React applications. I'm passionate about clean code, performance, and leveraging AI to optimize development workflows. I thrive in Linux environments and love exploring the intersection of modern web tech and AI productivity.
+I am a **Full-Stack Developer** focused on building reliable, scalable software products. I care about clean architecture, performance, and understanding the engineering principles behind the tools I use. I’m exploring the intersection of software engineering, systems thinking, and AI.
 
-- 🔭 **Current Focus:** Shipping full-stack Next.js apps with AI-augmented software engineering.
-- 🌱 **Learning:** Mastering software engineering by understanding first principles, not just tools.
-- ⚡ **Fun Fact:** I use AI-assisted development tools to build features faster and with higher precision.
+- 🔭 **Current Focus:** Building full-stack products with Next.js and AI-augmented engineering workflows.
+- 🌱 **Learning:** Deepening my software engineering and systems knowledge through first-principles thinking.
+- ⚡ **Fun Fact:** I use AI coding tools as engineering leverage—not just code generation.
 
 <br/>
 
