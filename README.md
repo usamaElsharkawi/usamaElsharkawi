@@ -19,6 +19,7 @@ I am a **Full-Stack Developer** focused on building reliable, scalable software 
 - 🔭 **Current Focus:** Building full-stack products with Next.js and AI-augmented engineering workflows.
 - 🌱 **Learning:** Deepening my software engineering and systems knowledge through first-principles thinking.
 - ⚡ **Fun Fact:** I use AI coding tools as engineering leverage—not just code generation.
+- 🎯 **Direction:** Becoming an AI-native Product Engineer who turns real-world problems into AI-powered software products.
 
 <br/>
 
