@@ -98,7 +98,7 @@ I am a **Full-Stack Developer** focused on building reliable, scalable software 
 - **Mastering System Design: From Basics to Cracking Interviews** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/system-design-course)
   *Learning scalable architecture, load balancing, database sharding, and high-level system design.*
 
-- **Fundamentals of Network Engineering** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Fundamentals-of-Network-Engineering)
+- **Fundamentals of Network Engineering** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Fundamentals-of-Network-Engineering) - [View Certificate](https://ude.my/UC-c95a8544-8537-421f-b63f-387c94b99c5b)
   *Building a strong foundation in computer networking, covering the OSI/TCP-IP models, routing, switching, and core network protocols.*
 
 </details>
