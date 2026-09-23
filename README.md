@@ -143,6 +143,9 @@ Future learning will cover user research, user journeys, information architectur
 
 ### <strong>🚀 Projects</strong>
 
+- **NodeBase** - [View Repository](https://github.com/usamaElsharkawi/nodebase)
+  *A complete workflow automation platform built from scratch. Features a drag-and-drop canvas with real-time execution, multiple integrations (OpenAI, Claude, Gemini, Discord, Slack, HTTP, webhooks), and a full SaaS layer with payments, subscriptions, free tier, and paywalls. Built with Next.js, TypeScript, Prisma, Neon, BetterAuth, Polar, Inngest, ReactFlow, and Sentry for production-grade observability.*
+
 - **LeetCode Clone** - [View Repository](https://github.com/usamaElsharkawi/leetcode-clone)
   *A production-grade coding platform built from first principles. Focuses on timeless software fundamentals rather than framework-specific knowledge. Features an admin problem creation workflow, Judge0-based code execution sandbox, and a robust Next.js + TypeScript + Prisma architecture.*
 
