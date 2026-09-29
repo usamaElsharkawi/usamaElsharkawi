@@ -101,6 +101,9 @@ I am a **Full-Stack Developer** focused on building reliable, scalable software 
 - **Fundamentals of Network Engineering** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Fundamentals-of-Network-Engineering) - [View Certificate](https://ude.my/UC-c95a8544-8537-421f-b63f-387c94b99c5b)
   *Building a strong foundation in computer networking, covering the OSI/TCP-IP models, routing, switching, and core network protocols.*
 
+- **Fundamentals of Backend Engineering** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Fundamentals-of-Backend-Engineering)
+  *Building a strong foundation in backend engineering, covering APIs, databases, caching, authentication, and system design principles.*
+
 </details>
 
 <details>
