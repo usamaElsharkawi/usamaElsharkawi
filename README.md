@@ -75,6 +75,9 @@ I am a **Full-Stack Developer** focused on building reliable, scalable software 
 - **The Complete JavaScript Course 2025: From Zero to Expert!** - [View Repository](https://github.com/usamaElsharkawi/the-javascript-course)
   *Mastering modern JavaScript from fundamentals to advanced patterns, including ES6+, DOM manipulation, and asynchronous JS.*
 
+- **Python Course** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Python_Course)
+  *Mastering Python fundamentals to advanced concepts for backend development, automation, and data processing.*
+
 - **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/NodeJS-The-Complete-Guide)
   *Mastering server-side development with Node.js, covering MVC architecture, RESTful APIs, GraphQL, and Deno.*
 
