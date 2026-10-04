@@ -78,7 +78,7 @@ I am a **Full-Stack Developer** focused on building reliable, scalable software 
 - **Complete 2026 Python Bootcamp: Learn Python from Scratch** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/Python_Course)
   *Mastering Python fundamentals to advanced concepts for backend development, automation, and data processing.*
 
-- **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** (In Progress) - [View Repository](https://github.com/usamaElsharkawi/NodeJS-The-Complete-Guide)
+- **NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)** - [View Repository](https://github.com/usamaElsharkawi/NodeJS-The-Complete-Guide) - [View Certificate](https://www.udemy.com/certificate/UC-cbea7cdb-5c06-4c4d-8b56-1e263d103f31/)
   *Mastering server-side development with Node.js, covering MVC architecture, RESTful APIs, GraphQL, and Deno.*
 
 - **Tailwind CSS From Scratch | Learn By Building Projects** - [View Repository](https://github.com/usamaElsharkawi/tailwind-css-course/blob/main/README.md)
